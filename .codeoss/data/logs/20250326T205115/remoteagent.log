@@ -1,0 +1,21 @@
+2025-03-26 20:51:15.635 [info] 
+
+
+
+
+2025-03-26 20:51:15.651 [info] Extension host agent started.
+2025-03-26 20:51:15.669 [info] Started initializing default profile extensions in extensions installation folder. file:///home/shreya/.codeoss/extensions
+2025-03-26 20:51:15.684 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/shreya/.codeoss/extensions
+2025-03-26 20:51:19.215 [info] [127.0.0.1][73b81368][ManagementConnection] New connection established.
+2025-03-26 20:51:19.465 [info] [127.0.0.1][06863ab7][ExtensionHostConnection] New connection established.
+2025-03-26 20:51:21.794 [info] [127.0.0.1][06863ab7][ExtensionHostConnection] <1238> Launched Extension Host Process.
+2025-03-26 21:07:44.582 [info] [127.0.0.1][73b81368][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-26 21:07:58.627 [info] [127.0.0.1][260f9723][ManagementConnection] New connection established.
+2025-03-26 21:07:58.829 [info] [127.0.0.1][6f623ca6][ExtensionHostConnection] New connection established.
+2025-03-26 21:07:58.834 [info] [127.0.0.1][6f623ca6][ExtensionHostConnection] <2027> Launched Extension Host Process.
+2025-03-26 21:11:33.227 [info] [127.0.0.1][6f623ca6][ExtensionHostConnection] The client has reconnected.
+2025-03-26 21:11:33.578 [info] [127.0.0.1][260f9723][ManagementConnection] The client has reconnected.
+2025-03-26 21:12:58.993 [info] [127.0.0.1][06863ab7][ExtensionHostConnection] <1238> Extension Host Process exited with code: 0, signal: null.
+2025-03-26 21:16:11.453 [info] [127.0.0.1][260f9723][ManagementConnection] The client has reconnected.
+2025-03-26 21:16:11.858 [info] [127.0.0.1][6f623ca6][ExtensionHostConnection] The client has reconnected.
+2025-03-26 21:25:33.103 [info] [127.0.0.1][260f9723][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

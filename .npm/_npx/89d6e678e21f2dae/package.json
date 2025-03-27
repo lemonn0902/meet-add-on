@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "webpack": "^5.98.0"
+  },
+  "_npx": {
+    "packages": [
+      "webpack"
+    ]
+  }
+}

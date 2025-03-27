@@ -1,0 +1,37 @@
+2025-03-27 10:03:51.335 [info] Extension host with pid 1695 started
+2025-03-27 10:03:51.335 [error] Error: EEXIST: file already exists, open '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224/vscode.lock'
+2025-03-27 10:03:51.341 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-27 10:03:51.354 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224/vscode.lock': The lock does not look stale, elapsed: 300 ms, giving up.
+2025-03-27 10:03:51.357 [error] Error: EEXIST: file already exists, open '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224-1/vscode.lock'
+2025-03-27 10:03:51.393 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-03-27 10:03:51.403 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224-1/vscode.lock': The pid 2027 appears to be gone.
+2025-03-27 10:03:51.403 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224-1/vscode.lock': Deleting a stale lock.
+2025-03-27 10:03:51.422 [info] Lock '/home/shreya/.codeoss/data/User/workspaceStorage/6a5bb224-1/vscode.lock': Lock acquired.
+2025-03-27 10:03:52.061 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onView:cloudcode.gemini.chatView'
+2025-03-27 10:03:52.062 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-27 10:03:52.062 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-03-27 10:03:53.536 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-27 10:03:53.558 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-03-27 10:03:53.896 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-27 10:03:53.900 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-27 10:03:54.227 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onCommand:cloudshell.isAuthorized'
+2025-03-27 10:03:54.591 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-27 10:03:54.592 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-03-27 10:03:55.316 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/go.mod,**/requirements.txt,**/build.gradle,**/Dockerfile,**/Containerfile'
+2025-03-27 10:03:57.108 [info] Eager extensions activated
+2025-03-27 10:03:57.117 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 10:03:57.128 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 10:03:57.129 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 10:03:57.129 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 10:04:04.085 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-27 10:06:21.285 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-03-27 10:07:17.579 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-27 10:07:31.780 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-03-27 10:08:40.605 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.npmScript'
+2025-03-27 10:09:06.722 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-03-27 10:10:04.326 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:3,$model12)
+2025-03-27 10:10:10.466 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-03-27 11:10:12.576 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2025-03-27 11:10:21.102 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10008
+2025-03-27 11:10:26.867 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10008
+2025-03-27 11:10:34.466 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10010

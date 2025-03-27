@@ -1,0 +1,8 @@
+[Error - 10:34:00 AM] Failed to load entities from /home/shreya/gmeet-addon/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/gmeet-addon/package.json'
+[Error - 10:34:00 AM] Failed to load entities from /home/shreya/gmeet-addon/node_modules/@googleworkspace/meet-addons/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/gmeet-addon/node_modules/@googleworkspace/meet-addons/package.json'
+[Error - 10:34:07 AM] Failed to load entities from /home/shreya/node_modules/@types/eslint/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/node_modules/@types/eslint/package.json'
+[Error - 10:34:07 AM] Failed to load entities from /home/shreya/node_modules/@types/eslint-scope/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/node_modules/@types/eslint-scope/package.json'
+[Error - 10:34:07 AM] Failed to load entities from /home/shreya/node_modules/@types/estree/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/node_modules/@types/estree/package.json'
+[Error - 10:34:07 AM] Failed to load entities from /home/shreya/node_modules/@types/json-schema/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/node_modules/@types/json-schema/package.json'
+[Error - 10:34:07 AM] Failed to load entities from /home/shreya/node_modules/@types/node/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/node_modules/@types/node/package.json'
+[Error - 10:34:22 AM] Failed to load entities from /home/shreya/package.json: Error: ENOENT: no such file or directory, open '/home/shreya/package.json'

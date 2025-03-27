@@ -1,0 +1,122 @@
+0 verbose cli /usr/local/nvm/versions/node/v22.14.0/bin/node /usr/local/nvm/versions/node/v22.14.0/bin/npm
+1 info using npm@11.2.0
+2 info using node@v22.14.0
+3 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/shreya/.cache/typescript/5.6/.npmrc
+5 silly config load:file:/home/shreya/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/etc/npmrc
+7 verbose title npm install @types/webpack@ts5.6
+8 verbose argv "install" "--ignore-scripts" "@types/webpack@ts5.6" "--save-dev" "--user-agent" "typesInstaller/5.6.3"
+9 verbose logfile logs-max:10 dir:/home/shreya/.npm/_logs/2025-03-27T10_46_20_149Z-
+10 verbose logfile /home/shreya/.npm/_logs/2025-03-27T10_46_20_149Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile done cleaning log files
+14 silly packumentCache corgi:https://registry.npmjs.org/@types%2fwebpack cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/@types%2fwebpack 273ms (cache updated)
+16 silly packumentCache corgi:https://registry.npmjs.org/@types%2fwebpack set size:undefined disposed:false
+17 silly idealTree buildDeps
+18 silly fetch manifest @types/webpack@5.28.5
+19 silly packumentCache full:https://registry.npmjs.org/@types%2fwebpack cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@types%2fwebpack 86ms (cache updated)
+21 silly packumentCache full:https://registry.npmjs.org/@types%2fwebpack set size:undefined disposed:false
+22 silly placeDep ROOT @types/webpack@5.28.5 REPLACE for:  want: 5.28.5
+23 silly reify moves {}
+24 silly audit bulk request {
+24 silly audit   '@babel/helper-string-parser': [ '7.25.9' ],
+24 silly audit   '@babel/helper-validator-identifier': [ '7.25.9' ],
+24 silly audit   '@babel/parser': [ '7.27.0' ],
+24 silly audit   '@babel/types': [ '7.27.0' ],
+24 silly audit   '@jridgewell/gen-mapping': [ '0.3.8' ],
+24 silly audit   '@jridgewell/resolve-uri': [ '3.1.2' ],
+24 silly audit   '@jridgewell/set-array': [ '1.2.1' ],
+24 silly audit   '@jridgewell/source-map': [ '0.3.6' ],
+24 silly audit   '@jridgewell/sourcemap-codec': [ '1.5.0' ],
+24 silly audit   '@jridgewell/trace-mapping': [ '0.3.25' ],
+24 silly audit   '@types/babel__core': [ '7.20.5' ],
+24 silly audit   '@types/babel__generator': [ '7.6.8' ],
+24 silly audit   '@types/babel__preset-env': [ '7.10.0' ],
+24 silly audit   '@types/babel__template': [ '7.4.4' ],
+24 silly audit   '@types/babel__traverse': [ '7.20.7' ],
+24 silly audit   '@types/eslint': [ '9.6.1' ],
+24 silly audit   '@types/eslint-scope': [ '3.7.7' ],
+24 silly audit   '@types/estree': [ '1.0.7' ],
+24 silly audit   '@types/json-schema': [ '7.0.15' ],
+24 silly audit   '@types/node': [ '22.13.14' ],
+24 silly audit   '@types/tapable': [ '2.2.7' ],
+24 silly audit   '@webassemblyjs/ast': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/floating-point-hex-parser': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/helper-api-error': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/helper-buffer': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/helper-numbers': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/helper-wasm-bytecode': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/helper-wasm-section': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/ieee754': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/leb128': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/utf8': [ '1.13.2' ],
+24 silly audit   '@webassemblyjs/wasm-edit': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/wasm-gen': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/wasm-opt': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/wasm-parser': [ '1.14.1' ],
+24 silly audit   '@webassemblyjs/wast-printer': [ '1.14.1' ],
+24 silly audit   '@xtuc/ieee754': [ '1.2.0' ],
+24 silly audit   '@xtuc/long': [ '4.2.2' ],
+24 silly audit   acorn: [ '8.14.1' ],
+24 silly audit   ajv: [ '8.17.1' ],
+24 silly audit   'ajv-formats': [ '2.1.1' ],
+24 silly audit   'ajv-keywords': [ '5.1.0' ],
+24 silly audit   browserslist: [ '4.24.4' ],
+24 silly audit   'buffer-from': [ '1.1.2' ],
+24 silly audit   'caniuse-lite': [ '1.0.30001707' ],
+24 silly audit   'chrome-trace-event': [ '1.0.4' ],
+24 silly audit   commander: [ '2.20.3' ],
+24 silly audit   'electron-to-chromium': [ '1.5.126' ],
+24 silly audit   'enhanced-resolve': [ '5.18.1' ],
+24 silly audit   'es-module-lexer': [ '1.6.0' ],
+24 silly audit   escalade: [ '3.2.0' ],
+24 silly audit   'eslint-scope': [ '5.1.1' ],
+24 silly audit   esrecurse: [ '4.3.0' ],
+24 silly audit   estraverse: [ '5.3.0', '4.3.0' ],
+24 silly audit   events: [ '3.3.0' ],
+24 silly audit   'fast-deep-equal': [ '3.1.3' ],
+24 silly audit   'fast-uri': [ '3.0.6' ],
+24 silly audit   'glob-to-regexp': [ '0.4.1' ],
+24 silly audit   'graceful-fs': [ '4.2.11' ],
+24 silly audit   'has-flag': [ '4.0.0' ],
+24 silly audit   'jest-worker': [ '27.5.1' ],
+24 silly audit   'json-parse-even-better-errors': [ '2.3.1' ],
+24 silly audit   'json-schema-traverse': [ '1.0.0' ],
+24 silly audit   'loader-runner': [ '4.3.0' ],
+24 silly audit   'merge-stream': [ '2.0.0' ],
+24 silly audit   'mime-db': [ '1.52.0' ],
+24 silly audit   'mime-types': [ '2.1.35' ],
+24 silly audit   'neo-async': [ '2.6.2' ],
+24 silly audit   'node-releases': [ '2.0.19' ],
+24 silly audit   picocolors: [ '1.1.1' ],
+24 silly audit   randombytes: [ '2.1.0' ],
+24 silly audit   'require-from-string': [ '2.0.2' ],
+24 silly audit   'safe-buffer': [ '5.2.1' ],
+24 silly audit   'schema-utils': [ '4.3.0' ],
+24 silly audit   'serialize-javascript': [ '6.0.2' ],
+24 silly audit   'source-map': [ '0.6.1' ],
+24 silly audit   'source-map-support': [ '0.5.21' ],
+24 silly audit   'supports-color': [ '8.1.1' ],
+24 silly audit   tapable: [ '2.2.1' ],
+24 silly audit   terser: [ '5.39.0' ],
+24 silly audit   'terser-webpack-plugin': [ '5.3.14' ],
+24 silly audit   'types-registry': [ '0.1.713' ],
+24 silly audit   'undici-types': [ '6.20.0' ],
+24 silly audit   'update-browserslist-db': [ '1.1.3' ],
+24 silly audit   watchpack: [ '2.4.2' ],
+24 silly audit   webpack: [ '5.98.0' ],
+24 silly audit   'webpack-sources': [ '3.2.3' ],
+24 silly audit   '@types/webpack': [ '5.28.5' ]
+24 silly audit }
+25 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 199ms
+26 silly audit report {}
+27 verbose cwd /home/shreya/.cache/typescript/5.6
+28 verbose os Linux 6.6.72+
+29 verbose node v22.14.0
+30 verbose npm  v11.2.0
+31 verbose exit 0
+32 info ok
